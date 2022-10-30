@@ -7,9 +7,13 @@
 
 
 ●	Completed  GoogleCloudReady Facilitator program
+
 ●	Completed agile virtual experience program by cognizant
+
 ●	Completed Internship Programme on artificial intelligence organised by PaceLab, Kochi.
+
 ●	Completed various courses offered by Coursera , EdX on  Linux, Python and  latest technologies.
+
 ●	Done various activities as student member of Institution's Innovation Council (IIC)
 
 
