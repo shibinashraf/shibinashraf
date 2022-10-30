@@ -1,6 +1,11 @@
 Hi there 👋
 
+Contact Me:
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/shibinashraf)
+
+
 My Contributions:
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
@@ -24,8 +29,7 @@ Tools I Use:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-My Projects
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shibinashraf&repo=/ThoughtForTheDay&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-
+<p align="center"> © 2022 shibin, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+</p>
