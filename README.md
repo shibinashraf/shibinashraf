@@ -1,8 +1,10 @@
-Hi there 👋 , Shibin Here.
+<h3 align="left">Hi there 👋 , Shibin Here. </h3>
+
   I am a Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
 
 
-Certifications/Achievements 🥉
+ <h3 align="left">Certifications/Achievements 🥉</h3>
+
 
 ●	Completed  GoogleCloudReady Facilitator program
 ●	Completed agile virtual experience program by cognizant
@@ -11,7 +13,7 @@ Certifications/Achievements 🥉
 ●	Done various activities as student member of Institution's Innovation Council (IIC)
 
 
-My Contributions:
+ <h3 align="left">My Contributions:</h3>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -21,8 +23,8 @@ My Contributions:
 
 
 
+ <h3 align="left">Programming Languages:</h3>
 
-Programming Languages: 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +33,8 @@ Programming Languages:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-Tools I Use:
+<h3 align="left">Tools I Use:</h3>
+
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
