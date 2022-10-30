@@ -1,7 +1,14 @@
-Hi there 👋
+Hi there 👋 , Shibin Here.
+  I am a Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
 
-Contact Me:
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/shibinashraf)
+
+Certifications/Achievements 🥉
+
+●	Completed  GoogleCloudReady Facilitator program
+●	Completed agile virtual experience program by cognizant
+●	Completed Internship Programme on artificial intelligence organised by PaceLab, Kochi.
+●	Completed various courses offered by Coursera , EdX on  Linux, Python and  latest technologies.
+●	Done various activities as student member of Institution's Innovation Council (IIC)
 
 
 My Contributions:
@@ -11,6 +18,8 @@ My Contributions:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
+
 
 
 Programming Languages: 
@@ -29,6 +38,15 @@ Tools I Use:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibinashraf" alt="shibinashraf" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shibin-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-ashraf" height="30" width="40" /></a>
+</p>
 
 <p align="center"> © 2022 shibin, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
