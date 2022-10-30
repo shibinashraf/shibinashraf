@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋 , Shibin Here. </h3>
 
-  I am a Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
+   Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
 
 
  <h3 align="left">Certifications/Achievements 🥉</h3>
