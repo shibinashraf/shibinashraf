@@ -1,7 +1,8 @@
 <h3 align="left">Hi there 👋 , Shibin Here. </h3>
 
    Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
-
+   
+ Visit my portfolio : [shibin.tech](www.shibin.tech)
 
  <h3 align="left">Certifications/Achievements 🥉</h3>
 
@@ -9,6 +10,8 @@
 ●	Completed  GoogleCloudReady Facilitator program
 
 ●	Completed agile virtual experience program by cognizant
+
+●  Completed Cybersecurity Engineering Virtual Internship Program by SAP - ForageJ
 
 ●	Completed Internship Programme on artificial intelligence organised by PaceLab, Kochi.
 
@@ -56,6 +59,3 @@
 <a href="https://instagram.com/shib1n" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="shibin-ashraf" height="40" width="40" /></a>
 </p>
 
-<p align="center"> © 2022 shibin, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-</p>
