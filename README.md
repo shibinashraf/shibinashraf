@@ -2,7 +2,7 @@
 
    Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
    
- Visit my portfolio : [shibin.tech](www.shibin.tech)
+ Visit my portfolio : [shibin.tech](https://shibin.tech/)
 
  <h3 align="left">Certifications/Achievements 🥉</h3>
 
