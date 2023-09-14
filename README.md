@@ -1,32 +1,5 @@
 <h3 align="left">Hi there 👋 , Shibin Here. </h3>
 
-   Highly motivated Computer Science student with strong analytical skills. Experienced in designing, developing and testing code. Can quickly learn new technologies and adapt to it. Efficient in working in a team or self- directed setting.
-   
- Visit my portfolio : [shibin.tech](https://shibin.tech/)
-
- <h3 align="left">Certifications/Achievements 🥉</h3>
-
-
-●	Completed  GoogleCloudReady Facilitator program
-
-●	Completed agile virtual experience program by cognizant
-
-●  Completed Cybersecurity Engineering Virtual Internship Program by SAP - ForageJ
-
-●	Completed Internship Programme on artificial intelligence organised by PaceLab, Kochi.
-
-●	Completed various courses offered by Coursera , EdX on  Linux, Python and  latest technologies.
-
-●	Done various activities as student member of Institution's Innovation Council (IIC)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinashraf&layout=compact&theme=cobalt&hide_border=true" />
-
-
-
  <h3 align="left">Programming Languages:</h3>
 
 <p>
